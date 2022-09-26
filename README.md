@@ -1,2 +1,2 @@
 # my_second_repo
-this is may seond repo
+this is my awesomme second repo
